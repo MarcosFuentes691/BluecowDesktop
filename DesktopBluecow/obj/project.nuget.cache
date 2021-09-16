@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hi4UMFFooPmj+Z/1VLCXorwCRtZJufQe/3rXNOCkem7QK62pj7EViN99FK+HBsaiaL92lssyW/htolXWyWkfHw==",
+  "success": true,
+  "projectFilePath": "C:\\JavaProjects\\DesktopBluecow\\DesktopBluecow\\DesktopBluecow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcos\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
